@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran siva sai</h1>
 <h3 align="center">A passionate frontend developer from India. I specialize in MERN/MEAN Stack.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiransivasai&label=Profile%20views&color=0e75b6&style=flat" alt="kiransivasai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiransivasai" alt="kiransivasai" /></a> </p>
-
 - 🌱 I’m currently learning **DSA, Algorithms**
 
 - 💬 Ask me about **react, python, flask**
